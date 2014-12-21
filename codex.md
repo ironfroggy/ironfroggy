@@ -15,6 +15,12 @@ This is a short, incomplete, prone-to-change list of goals for my Codex Vitae.
 - A representation of my conscious approach towards life
 - A documentation of the formative influences on my life.
 
+## The Things I Am
+
+- I am Vegan because I believe all sentient suffering is a tragedy.
+- I am Feminist because I believe male-dominated systems are due for a painful dethrowning.
+- I am Bisexual because it is the only sexual expression that makes sense to me.
+
 ## The Things I Know
 
 ## The Things I Believe
