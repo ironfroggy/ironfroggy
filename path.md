@@ -1,4 +1,10 @@
-That which I can look back on and that which I can look forward to.
+# About This Document
+
+I dunno, really. That which I can look back on and that which I can look forward to?
+
+I'm not sure if this is a log or a TODO or a dream journal. I'm not sure what this is.
+
+I will let it evolve.
 
 # 2015
 
