@@ -14,3 +14,9 @@ This is a short, incomplete, prone-to-change list of goals for my Codex Vitae.
 - A declaration of my political and social positions and explainations for them
 - A representation of my conscious approach towards life
 - A documentation of the formative influences on my life.
+
+## The Things I Know
+
+## The Things I Believe
+
+## The Things I Feel
